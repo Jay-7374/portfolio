@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2026 Modern Smooth Scrolling and Premium Custom Scrollbar */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+  background-color: #030712; /* Tailwind gray-950 */
+}
+
+/* Custom Scrollbar for premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #030712; /* gray-950 */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1f2937; /* gray-800 */
+  border-radius: 9999px;
+  border: 2px solid #030712;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6; /* blue-500 */
+}
