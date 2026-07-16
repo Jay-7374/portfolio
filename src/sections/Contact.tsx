@@ -73,7 +73,9 @@ export default function Contact() {
             {/* Contact Cards */}
             <div className="space-y-4 pt-2">
               <a
-                href="mailto:jayaprakash99956@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=jayaprakash99956@gmail.com"
+                target="_blank"
+                rel="noreferrer"
                 className="flex items-center gap-4 p-4 rounded-xl border border-white/10 bg-white/5 hover:border-blue-500/30 hover:bg-white/10 transition-all group"
               >
                 <div className="p-3 bg-blue-500/10 text-blue-400 rounded-lg group-hover:bg-blue-500 group-hover:text-white transition-all">
