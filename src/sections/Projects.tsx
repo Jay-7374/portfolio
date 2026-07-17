@@ -34,8 +34,8 @@ const projects: Project[] = [
       'Designed reusable modules for maintainable and efficient code.'
     ],
     techStack: ['C', 'Structures', 'File I/O', 'Data Handling'],
-    image: 'images/demo3.png',
-    github: 'https://github.com/Jay-7374/Student-Record-Management-System',
+    image: 'images/StudentDBM.png',
+    github: 'https://github.com/Jay-7374/Student-RMS',
     demo: ''
   },
   {

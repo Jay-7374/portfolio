@@ -40,6 +40,13 @@ const achievements: Achievement[] = [
     colorClass: 'from-purple-500 to-indigo-500'
   },
   {
+    stat: 'Rank 6141',
+    title: 'Smart Coder Certificate',
+    icon: <Trophy size={24} />,
+    description: 'Silver Certified "Smart Coder" in 2026 after ranking 6141/56946 globally on Smart Interviews.',
+    colorClass: 'from-rose-500 to-pink-500'
+  },
+  {
     stat: '96.8% Score',
     title: 'Intermediate Education',
     icon: <Trophy size={24} />,
